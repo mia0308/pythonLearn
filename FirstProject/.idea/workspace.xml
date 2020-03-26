@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cb04aae7-a4ca-4466-af61-f24b21c481f8" name="Default Changelist" comment="" />
+    <list default="true" id="cb04aae7-a4ca-4466-af61-f24b21c481f8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/matplotlib/example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reptileExample/douban.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +19,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1WCMfYf4HAQdBHHQiVga94cHHhx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,9 +31,73 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="Images" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.students_managements">
+  <component name="RunManager" selected="Python.example">
+    <configuration name="douban" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FirstProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/reptileExample" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/reptileExample/douban.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="example" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FirstProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/matplotlib" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/matplotlib/example.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="reptile_text" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FirstProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/reptile_text.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="students_managements" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="FirstProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -38,69 +111,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/students_managements.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="testPython" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="FirstProject" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testPython.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="testWhile" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="FirstProject" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testWhile.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="text_class2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="FirstProject" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/text_class2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -132,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.example" />
+        <item itemvalue="Python.douban" />
+        <item itemvalue="Python.reptile_text" />
         <item itemvalue="Python.students_managements" />
         <item itemvalue="Python.text_class3" />
-        <item itemvalue="Python.text_class2" />
-        <item itemvalue="Python.testPython" />
-        <item itemvalue="Python.testWhile" />
       </list>
     </recent_temporary>
   </component>
@@ -166,26 +176,30 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1259" height="300" key="GridCell.Tab.0.bottom" timestamp="1584612654066">
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584951645577">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="300" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1160@0.0.1280.680" timestamp="1584612654066" />
-    <state width="1259" height="300" key="GridCell.Tab.0.center" timestamp="1584612654066">
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680/1920.0.1920.1160@0.0.1280.680" timestamp="1584951645577" />
+    <state width="1259" height="62" key="GridCell.Tab.0.bottom" timestamp="1584955639153">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="300" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1160@0.0.1280.680" timestamp="1584612654066" />
-    <state width="1259" height="300" key="GridCell.Tab.0.left" timestamp="1584612654066">
+    <state width="1259" height="62" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1160@0.0.1280.680" timestamp="1584955639153" />
+    <state width="1259" height="62" key="GridCell.Tab.0.center" timestamp="1584955639153">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="300" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1160@0.0.1280.680" timestamp="1584612654066" />
-    <state width="1259" height="300" key="GridCell.Tab.0.right" timestamp="1584612654066">
+    <state width="1259" height="62" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1160@0.0.1280.680" timestamp="1584955639153" />
+    <state width="1259" height="62" key="GridCell.Tab.0.left" timestamp="1584955639153">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="300" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1160@0.0.1280.680" timestamp="1584612654066" />
-    <state x="142" y="0" key="SettingsEditor" timestamp="1578649728995">
+    <state width="1259" height="62" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1160@0.0.1280.680" timestamp="1584955639153" />
+    <state width="1259" height="62" key="GridCell.Tab.0.right" timestamp="1584955639153">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="142" y="0" key="SettingsEditor/0.0.1280.680/1920.0.1920.1160@0.0.1280.680" timestamp="1578649728995" />
+    <state width="1259" height="62" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1160@0.0.1280.680" timestamp="1584955639153" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1584952215401">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680/1920.0.1920.1160@0.0.1280.680" timestamp="1584952215401" />
     <state x="329" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1584686751567">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
